@@ -21,3 +21,7 @@ Electronics project, that uses Arduino to:
 
 ### CAUTION
 Do not touch grove water atomizer middle part
+
+### HARDWARE SETUP
+![hardware_front](img/HF.png)
+![hardware_back](img/HB.png)
