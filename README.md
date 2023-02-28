@@ -7,6 +7,7 @@ Electronics project, that uses Arduino to:
 
 * Maintain a certain humidity with grove water atomization
 
+See theoretical notes/learnings in 'electronics_notes.txt'.
 
 ### PREPARE SOFTWARE
 * Install arduino IDE: https://www.arduino.cc/en/software
