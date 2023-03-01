@@ -1,5 +1,5 @@
 # Electronics-arduino
-Electronics project, that uses Arduino to:
+Electronics project, that uses Arduino to
 
 * Measure temperature, humidity with DHT22
 
