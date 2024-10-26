@@ -10,7 +10,7 @@ Electronics project, that uses Arduino to:
 See theoretical notes/learnings in 'electronics_notes.txt'.
 
 ### Prepare software
-* Install arduino IDE: https://www.arduino.cc/en/software
+* [Install arduino IDE](https://www.arduino.cc/en/software)
 * Open arduino IDE with main.cpp.ino
 * Sketch -> include libraries -> liquidcrystal
 * Sketch -> include libaraies -> include .zip -> DHTlib.zip
@@ -102,7 +102,7 @@ Relays provide complete electrical isolation between the control circuit and the
 When using high valotages with an arduino use it correctly or you could make the arduino explode.
 
 ### Humidifier
-[smart humidifier](https://create.arduino.cc/projecthub/taifur/smart-humidifier-dac66f)
+[smart humidifier](https://create.arduino.cc/projecthub/taifur/smart-humidifier-dac66f)<br>
 Use Grove - water atomization.<br>
 Uses ultrasound to heat water that then vaporizes.<br>
 To be able to connect with arduino you also need a grove shield and grove wire. [Or maybe not](https://forum.arduino.cc/index.php?topic=593574.0). I tried without grove shield to reduce costs and it worked.
@@ -128,7 +128,7 @@ In electronic circuits, resistors are used to reduce current flow, adjust signal
 
 ## Algorithm knowledge
 
-### Ohm Law
+### Ohm law
 Ohm's law is a law that states that the voltage across a resistor is directly proportional to the current flowing through the resistance.<br>
 V = RI<br>
 V = voltage, R = resistance, I = current<br>
